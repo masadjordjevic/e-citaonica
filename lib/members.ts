@@ -26,7 +26,7 @@ export const members: Member[] = [
   { id: "ema", name: "Ema", email: "ema@harem.com", status: "Idle", hoursThisWeek: 0, avatar: "/avatars/ema.png", ringColor: "ring-[oklch(0.78_0.09_300)]" },
   { id: "jelena", name: "Jelena", email: "jelena@harem.com", status: "Idle", hoursThisWeek: 0, avatar: "/avatars/jelena.png", ringColor: "ring-[oklch(0.82_0.09_90)]" },
   { id: "mia", name: "Mia", email: "mia@harem.com", status: "Idle", hoursThisWeek: 0, avatar: "/avatars/mia.png", ringColor: "ring-[oklch(0.8_0.09_220)]" },
-  { id: "ana", name: "Ana", email: "ana@harem.com", status: "Idle", hoursThisWeek: 0, avatar: "/avatars/default.png", ringColor: "ring-[oklch(0.82_0.09_25)]" },
+  { id: "ana", name: "Ana", email: "ana@harem.com", status: "Idle", hoursThisWeek: 0, avatar: "/avatars/ana.png", ringColor: "ring-[oklch(0.82_0.09_25)]" },
   { id: "emilija", name: "Emilija", email: "emilija@harem.com", status: "Idle", hoursThisWeek: 0, avatar: "/avatars/default.png", ringColor: "ring-[oklch(0.82_0.09_260)]" },
   { id: "andrea", name: "Andrea", email: "andrea@harem.com", status: "Idle", hoursThisWeek: 0, avatar: "/avatars/default.png", ringColor: "ring-[oklch(0.82_0.09_340)]" },
 ]
