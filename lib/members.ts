@@ -29,6 +29,7 @@ export const members: Member[] = [
   { id: "ana", name: "Ana", email: "ana@harem.com", status: "Idle", hoursThisWeek: 0, avatar: "/avatars/ana.png", ringColor: "ring-[oklch(0.82_0.09_25)]" },
   { id: "emilija", name: "Emilija", email: "emilija@harem.com", status: "Idle", hoursThisWeek: 0, avatar: "/avatars/emilija.png", ringColor: "ring-[oklch(0.82_0.09_260)]" },
   { id: "andrea", name: "Andrea", email: "andrea@harem.com", status: "Idle", hoursThisWeek: 0, avatar: "/avatars/andrea.png", ringColor: "ring-[oklch(0.82_0.09_340)]" },
+   { id: "marija", name: "Marija", email: "marija@harem.com", status: "Idle", hoursThisWeek: 0, avatar: "/avatars/marija.png", ringColor: "ring-[oklch(0.82_0.09_340)]" },
 ]
 
 export function findAccountByEmail(email: string): Member | undefined {
